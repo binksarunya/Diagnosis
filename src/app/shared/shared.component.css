@@ -1,0 +1,33 @@
+md-toolbar{
+    margin-bottom: 10px;
+    background-color:#AFEEEE;
+}
+
+.user{
+    align-items: center;
+    display:flex;
+}
+
+.md-icon-account {
+    display: inline-block;
+    align-content: center;
+
+}
+
+.icon {
+    display: inline-block;
+    float: left;
+}
+
+.title1 {
+    font-size: 30px;
+    font-family: system-ui;
+    
+}
+
+p {
+    font-size: 16px;
+    /* font-family: "Lucida Console", Monaco, monospace; */
+    font-family: system-ui;
+    display: inline-block;
+}
